@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+
+div {
+    background-color: azure;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: darkseagreen;
+}
+
+section {
+    background-color:cornflowerblue ;
+    color: white
+}
+
+article {
+    background-color: lightsteelblue;
+}
+
+aside {
+    background-color: olive;
+}
+
+footer {
+    background-color: blanchedalmond;
+}
+
+a {
+    color: white
+}
