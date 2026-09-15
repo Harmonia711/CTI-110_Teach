@@ -1,0 +1,33 @@
+h1 {
+    color: firebrick;
+    font-family:'Comic Sans MS', cursive, sans-serif;
+}
+
+section {
+    background-color: lightgray;
+}
+
+.article-section {
+    background-color: lightblue;
+}
+
+#TopHeader {
+    font-size: 100px;
+}
+
+a:hover {
+    color: orange
+}
+
+p:hover {
+    color:green
+}
+
+body {
+    background-color: pink;
+
+}
+
+a {
+    background-color: lightgray;
+}
